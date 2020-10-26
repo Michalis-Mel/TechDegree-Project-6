@@ -2,74 +2,73 @@
     "projects" : [
         {
             "id": 0,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Random Quote Generator",
+            "description": "Display a different quote and update the background color in the browser automatically at regular intervals or every time the user clicks the 'Show another quote' button.",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/TechDegree-Project-1/",
+            "github_link": "https://github.com/Michalis-Mel/TechDegree-Project-1/",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-1/1.jpg",
+                "/static/images/project-1/2.jpg",
+                "/static/images/project-1/3.jpg",
+                "/static/images/project-1/4.jpg"
             ]
         },
         {
             "id": 1,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Data Pagination and Filtering",
+            "description": "Using unobtrusive JavaScript implement search bar functionality and append pagination links depending on search results while filtering through 'students' on an existing webpage.",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/TechDegree-Project-2/",
+            "github_link": "https://github.com/Michalis-Mel/TechDegree-Project-2",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-2/1.jpg",
+                "/static/images/project-2/2.jpg",
+                "/static/images/project-2/3.jpg"
             ]
         },
         {
             "id": 2,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Interactive Form",
+            "description": "Validate form fields, add interactivity and display error messages in real time until user input is fully valid with JavaScript",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/TechDegree-Project-3/",
+            "github_link": "https://github.com/Michalis-Mel/TechDegree-Project-3",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-3/1.jpg",
+                "/static/images/project-3/2.jpg",
+                "/static/images/project-3/3.jpg",
+                "/static/images/project-3/4.jpg"
             ]
         },
         {
             "id": 3,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Phrase Hunter",
+            "description": "Built with OOJS principles in 'Vanilla' JavaScript; Guess a phrase by clicking an onscreen keyboard or executing physical keystrokes with 5 chances to guess incorrectly.",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/TechDegree-Project-4/",
+            "github_link": "https://github.com/Michalis-Mel/TechDegree-Project-4/",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-4/1.jpg",
+                "/static/images/project-4/2.jpg",
+                "/static/images/project-4/3.jpg",
+                "/static/images/project-4/4.jpg"
             ]
         },
         {
@@ -82,102 +81,81 @@
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/TechDegree-Project-5/",
+            "github_link": "https://github.com/Michalis-Mel/TechDegree-Project-5",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-5/1.jpg",
+                "/static/images/project-5/2.jpg",
+                "/static/images/project-5/3.jpg",
+                "/static/images/project-5/4.jpg"
             ]
         },
         {
             "id": 5,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "BeatMaker",
+            "description": "A website that let you create some music using javascript",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/BeatMaker/",
+            "github_link": "https://github.com/Michalis-Mel/BeatMaker",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-6/1.jpg",
+                "/static/images/project-6/2.jpg"
             ]
         },
         {
             "id": 6,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "COLOORS",
+            "description": "A website that let you generate and save your custom color palette.",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/COLOORS/",
+            "github_link": "https://github.com/Michalis-Mel/COLOORS/tree/main",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-7/1.jpg",
+                "/static/images/project-7/2.jpg",
+                "/static/images/project-7/3.jpg"
             ]
         },
         {
             "id": 7,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Travelly",
+            "description": "A sample website for a travelling agency.",
             "technologies": [
-                "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/Travelly/",
+            "github_link": "https://github.com/Michalis-Mel/Travelly",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
-            ]
-        },
-        {
-            "id": 8,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
-            "technologies": [
-                "JavaScript",
-                "Fetch API",
-                "HTML",
-                "CSS"
-            ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
-            "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-8/1.jpg",
+                "/static/images/project-8/2.jpg",
+                "/static/images/project-8/3.jpg",
+                "/static/images/project-8/4.jpg"
             ]
         },
         {
             "id": 9,
-            "project_name": "Public API Requests",
-            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "project_name": "Days.",
+            "description": "A sample dynamic website  using gsap and barba-js for page transitions.",
             "technologies": [
                 "JavaScript",
-                "Fetch API",
                 "HTML",
                 "CSS"
             ],
-            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
-            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "live_link": "https://michalis-mel.github.io/Travel-Project/",
+            "github_link": "https://github.com/Michalis-Mel/Travel-Project",
             "image_urls": [
-                "/static/images/public_api_request_main.png",
-                "/static/images/public_api_request_project1.png",
-                "/static/images/public_api_request_project2.png"
+                "/static/images/project-9/1.jpg",
+                "/static/images/project-9/2.jpg",
+                "/static/images/project-9/3.jpg",
+                "/static/images/project-9/4.jpg"
             ]
         }
     ]
