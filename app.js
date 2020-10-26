@@ -16,7 +16,6 @@ app.use(mainRoutes);
 
 //Error handler for non existed routes (404 not found)
 app.use((req , res , next) =>{
-    console.log('404 error handler logged this');
     res.status(404).render('not-found');
 });
 

@@ -23,6 +23,8 @@ block content
         a.button.expanded(href=`${project.github_link}` target="_blank") GitHub Repo
     
 
-      each image in project.images_urls
-        img.image(src=`${project.image_urls[0]}`)
+      each image in project.image_urls
+        img(src=`${image}`)
+        
+
         
