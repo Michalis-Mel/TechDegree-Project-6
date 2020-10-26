@@ -1,0 +1,184 @@
+{
+    "projects" : [
+        {
+            "id": 0,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 6,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 7,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 8,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        },
+        {
+            "id": 9,
+            "project_name": "Public API Requests",
+            "description": "In JavaScript, filter search results of a simple public API request utilizing the 'fetch' API. When the request is made a 'Promise' is returned using 'then()', and the data is manipulated and parsed into JSON. The JSON object is then interpolated dynamically into the HTML.",
+            "technologies": [
+                "JavaScript",
+                "Fetch API",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://brandenmorgan.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/BrandenMorgan/public_api_request-v1",
+            "image_urls": [
+                "/static/images/public_api_request_main.png",
+                "/static/images/public_api_request_project1.png",
+                "/static/images/public_api_request_project2.png"
+            ]
+        }
+    ]
+}
