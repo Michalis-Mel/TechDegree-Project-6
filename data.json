@@ -141,7 +141,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": 8,
             "project_name": "Days.",
             "description": "A sample dynamic website  using gsap and barba-js for page transitions.",
             "technologies": [
@@ -156,6 +156,25 @@
                 "/static/images/project-9/2.jpg",
                 "/static/images/project-9/3.jpg",
                 "/static/images/project-9/4.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "project_name": "Latex Template Creator",
+            "description": "This website is my thesis at the Democritus University of Thrace. It gives you the chance to prepare a file with Latex even if you have no knowledge about this document preparation system. ",
+            "technologies": [
+                "Latex",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "PHP"
+            ],
+            "live_link": "https://michalis-mel.github.io/Diploma/",
+            "github_link": "https://github.com/Michalis-Mel/Diploma",
+            "image_urls": [
+                "/static/images/project-10/1.jpg",
+                "/static/images/project-10/2.jpg",
+                "/static/images/project-10/3.jpg"
             ]
         }
     ]
